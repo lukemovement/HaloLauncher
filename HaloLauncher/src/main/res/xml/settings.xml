@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+            android:title="Close after new app"
+            android:summary="After launching a new application close Halo Launcher"
+            android:key="CloseAfterNewApp" />
+
+    <CheckBoxPreference
+            android:title="Show Favourites"
+            android:summary="Show and hide favourites"
+            android:key="ShowFavourites" />
+
+    <CheckBoxPreference
+            android:title="Show Toggles"
+            android:summary="Show and hide toggles"
+            android:key="ShowToggles" />
+
+</PreferenceScreen>

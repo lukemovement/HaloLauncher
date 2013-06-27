@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="" />
+        <option name="name" value="Unnamed-0" />
+        <option name="packageNamePattern" value="com.paranoid.lukemovement.halolauncher" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-17</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/HaloLauncher/src/main/res/layout/toggles.xml">
+        <config>
+          <device>Galaxy Nexus</device>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Unnamed-0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82ff8864-df3d-4402-8528-8bae260dee3d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\StateTracker.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\StateTracker.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieStatusPanel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieStatusPanel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\mid_navigation_bar_land.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\mid_navigation_bar_land.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\ToggleSlider.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\ToggleSlider.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\net\NetworkOverLimitActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\net\NetworkOverLimitActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettingsModel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettingsModel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_settings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_settings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_area.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_area.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\TickerView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\TickerView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\SyncTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\SyncTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\BaseStatusBar.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\BaseStatusBar.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\res\layout\main.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\res\layout\main.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_hybrid.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_hybrid.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\QuickSettingsTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\QuickSettingsTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBarPolicy.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBarPolicy.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\VolumeController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\VolumeController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_bluetooth.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_bluetooth.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_expand.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_expand.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_airplane.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_airplane.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\ShirtPocket.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\ShirtPocket.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationPanel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationPanel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\IconMerger.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\IconMerger.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AccessibilityContentDescriptions.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AccessibilityContentDescriptions.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\NetworkModeButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\NetworkModeButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_desktop_mode.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_desktop_mode.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\FlashlightButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\FlashlightButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\CompatModeButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\CompatModeButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw1000dp\status_bar_search_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw1000dp\status_bar_search_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\InputMethodTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\InputMethodTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DoNotDisturbController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DoNotDisturbController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NavigationBarView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NavigationBarView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BrightnessTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BrightnessTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_power_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_power_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\donottranslate.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\donottranslate.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_clear.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_clear.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsHorizontalScrollView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsHorizontalScrollView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletStatusBar.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletStatusBar.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\MobileNetworkTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\MobileNetworkTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sk\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\recents_thumbnail_fg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\recents_thumbnail_fg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BatteryTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BatteryTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AutoRotateTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AutoRotateTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\GestureRecorder.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\GestureRecorder.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_toggle_button.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_toggle_button.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\navbar_search_outerring.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\navbar_search_outerring.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\hd.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\hd.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBar.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBar.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\UniverseBackground.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\UniverseBackground.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_recent_panel_footer.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_recent_panel_footer.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_expanded_header.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_expanded_header.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_input_methods_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_input_methods_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\ScreenTimeoutButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\ScreenTimeoutButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_rssi.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_rssi.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BluetoothController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BluetoothController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\MobileNetworkTypeTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\MobileNetworkTypeTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\TrackingPatternView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\TrackingPatternView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_quicksettings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_quicksettings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\mid_navigation_bar_port.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\mid_navigation_bar_port.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\SettingsPanelView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\SettingsPanelView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\cling_button_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\cling_button_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\CommandQueue.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\CommandQueue.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BatteryController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BatteryController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\screenshot\TakeScreenshotService.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\screenshot\TakeScreenshotService.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_charge_min.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_charge_min.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieMenu.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieMenu.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\WifiButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\WifiButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_generic.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_generic.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DateView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DateView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\TelephonyIcons.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\TelephonyIcons.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_brightness_dialog.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_brightness_dialog.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsCallback.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsCallback.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ms-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_ticker_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_ticker_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\Halo.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\Halo.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\LockScreenButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\LockScreenButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\BrightnessButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\BrightnessButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\UsbTetherTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\UsbTetherTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_charge.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_charge.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_panel_title.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_panel_title.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-be-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\screenshot\GlobalScreenshot.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\screenshot\GlobalScreenshot.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_compat_mode_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_compat_mode_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBarView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PhoneStatusBarView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ticker_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ticker_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notify_panel_clock_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notify_panel_clock_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\Clock.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\Clock.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\VolumeTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\VolumeTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbPermissionActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbPermissionActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AutoRotateController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AutoRotateController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AirplaneModeController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\AirplaneModeController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nl\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_rotation_lock.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_rotation_lock.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WiFiTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WiFiTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelBar.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelBar.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\PiePolicy.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\PiePolicy.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbConfirmActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbConfirmActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SoundButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SoundButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_sys_battery_charging.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_sys_battery_charging.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\btn_default_small.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\btn_default_small.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_alarm.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_alarm.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_input_methods_item.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_input_methods_item.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\ImageWallpaper.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\ImageWallpaper.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fr\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw1000dp\styles.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw1000dp\styles.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_notification_row.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_notification_row.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\GPSButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\GPSButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\PreferencesTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\PreferencesTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\HybridTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\HybridTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\navigation_bar.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\navigation_bar.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsVerticalScrollView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsVerticalScrollView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentTasksLoader.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentTasksLoader.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ru-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_ticker_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_ticker_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_item_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_item_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\config.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\config.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_settings_view.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_settings_view.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sl\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\LocationController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\LocationController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsPreloadReceiver.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsPreloadReceiver.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\KeyButtonView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\KeyButtonView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_charge.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_charge.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\BluetoothButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\BluetoothButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\StorageNotification.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\StorageNotification.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-et\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\LoadAverageService.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\LoadAverageService.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SystemUIService.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SystemUIService.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AirplaneModeTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AirplaneModeTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BrightnessController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\BrightnessController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_settings_slider_disabled.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_settings_slider_disabled.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\src\com\android\systemui\screenshot\ScreenshotTest.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\src\com\android\systemui\screenshot\ScreenshotTest.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_search_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_search_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\ScreenTimeoutTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\ScreenTimeoutTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\system_bar_notification_header_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\system_bar_notification_header_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbAccessoryUriActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbAccessoryUriActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\power\PowerUI.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\power\PowerUI.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\CustomObjectAnimator.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\CustomObjectAnimator.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\arrays.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\arrays.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\NotificationRowLayout.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\NotificationRowLayout.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SearchPanelView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SearchPanelView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_battery.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_battery.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\NetworkController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\NetworkController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\system_bar_ticker_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\system_bar_ticker_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pt-rPT-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbResolverActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbResolverActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_toggle_slider.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_toggle_slider.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tr-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\PowerWidget.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\PowerWidget.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_sys_battery.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_sys_battery.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\attrs.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\attrs.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_min.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery_min.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\Gefingerpoken.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\Gefingerpoken.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-tl-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\recents_thumbnail_no_press.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\recents_thumbnail_no_press.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-af-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_settings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_settings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\StatusBarTouchProxy.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\StatusBarTouchProxy.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-rUS\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fi\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\UserTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\UserTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lt\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw720dp\styles.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw720dp\styles.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_bugreport.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_bugreport.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\EventHole.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\EventHole.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\NotificationData.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\NotificationData.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-el\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NotificationPanelView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NotificationPanelView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsScrollViewPerformanceHelper.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsScrollViewPerformanceHelper.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\ExpandHelper.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\ExpandHelper.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\DelegateViewHelper.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\DelegateViewHelper.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MobileDataButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MobileDataButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_kb_battery.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\status_bar_search_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\status_bar_search_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_wifi_display.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_wifi_display.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-am-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_recent_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_recent_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_recent_item.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_recent_item.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ko-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tv\TvStatusBar.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tv\TvStatusBar.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\InputMethodButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\InputMethodButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-es-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_wifi.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_wifi.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw600dp-land\dimens.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw600dp-land\dimens.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-de-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\NfcTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\NfcTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\AutoRotateButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\AutoRotateButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\WifiApButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\WifiApButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\HaloProperties.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\halo\HaloProperties.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_qs_battery.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_qs_battery.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WiFiDisplayTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WiFiDisplayTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notification_row_legacy_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notification_row_legacy_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsPanelView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\RecentsPanelView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_sysbar_zoom.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_sysbar_zoom.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\TaskDescription.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\recent\TaskDescription.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaPlayPauseButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaPlayPauseButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettingsController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettingsController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BluetoothTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BluetoothTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DockBatteryController.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\DockBatteryController.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\CompatModePanel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\CompatModePanel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-lv-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_recent_panel.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_recent_panel.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_location.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_location.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelHolder.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelHolder.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\BeanBag.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\BeanBag.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\pocket_drag_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\pocket_drag_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\SignalClusterView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\SignalClusterView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-cs\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_button_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_button_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_user.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_user.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_time.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_time.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-fa-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notifications.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notifications.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ca-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\PowerButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\PowerButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-iw-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletStatusBarView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletStatusBarView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WifiAPTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\WifiAPTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-vi-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AlarmTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\AlarmTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_help.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-land\status_bar_help.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\intruder_row_bg.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\intruder_row_bg.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-da\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-nb-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sr\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\CircleBattery.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\CircleBattery.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\WifiIcons.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\WifiIcons.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_no_recent_apps.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\status_bar_no_recent_apps.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SleepButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SleepButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\notification_adaptive_wrapper.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\notification_adaptive_wrapper.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_brightness.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_brightness.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\StatusBarWindowView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\StatusBarWindowView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\AnimatedImageView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\AnimatedImageView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rCN\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_sysbar_ime.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_sysbar_ime.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zu-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\Ticker.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\Ticker.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BugReportTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\BugReportTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationLinearLayout.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationLinearLayout.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-rm\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-rm\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\RingerModeTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\RingerModeTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationIconArea.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\NotificationIconArea.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NavbarEditor.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\NavbarEditor.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ro-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-pl\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\AndroidManifest.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\tests\AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbDisconnectedReceiver.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbDisconnectedReceiver.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hu-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_gps_acquiring_anim.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_gps_acquiring_anim.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sw-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\DesktopModeTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\DesktopModeTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ar-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SyncButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\SyncButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_ticker_compat.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_ticker_compat.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\carrier_label.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\carrier_label.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\PanelView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_roaming_cdma_flash.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_roaming_cdma_flash.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SwipeHelper.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\SwipeHelper.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\InputMethodsPanel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\InputMethodsPanel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hi-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_min.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_min.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_charge_min.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery_charge_min.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\ids.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\ids.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-en-rGB\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-uk-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_recents_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_recents_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-port\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-in-port\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\super_status_bar.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout-sw600dp\super_status_bar.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaPreviousButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaPreviousButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\TorchTile.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\quicksettings\TorchTile.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-ja\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\styles.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values\styles.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbDebuggingActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbDebuggingActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notification_list_shadow.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\notification_list_shadow.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-th-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-hr-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_peek.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_notification_peek.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettings.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\phone\QuickSettings.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-it\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-sv-large\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\alert_bar_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\alert_bar_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\AirplaneButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\AirplaneButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_close.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\status_bar_close.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\stat_sys_battery.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\DoNotDisturb.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\DoNotDisturb.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletTicker.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\tablet\TabletTicker.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\StatusBarIconView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\StatusBarIconView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\IntruderAlertView.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\policy\IntruderAlertView.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\media\NotificationPlayer.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\media\NotificationPlayer.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbStorageActivity.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\usb\UsbStorageActivity.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_tile_background.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\qs_tile_background.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_no_recent_apps.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\system_bar_no_recent_apps.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_rotation.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\drawable\ic_notify_rotation.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieItem.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\view\PieItem.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\PieControl.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\PieControl.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\PieControlPanel.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\PieControlPanel.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_media.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\layout\quick_settings_tile_media.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaNextButton.java" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\src\com\android\systemui\statusbar\powerwidget\MediaNextButton.java" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-land\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-bg-land\strings.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW-large\strings.xml" afterPath="C:\Users\Luke Pring\android\system\frameworks\base\packages\SystemUI\res\values-zh-rTW-large\strings.xml" />
+    </list>
+    <ignored path="HaloLauncher.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="82ff8864-df3d-4402-8528-8bae260dee3d" time="1372342454742" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HaloLauncher" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Toggles.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Toggles.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="6" selection-start="2995" selection-end="2995" vertical-scroll-proportion="0.4017413">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/android/system/frameworks/base" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="HaloLauncherProject" />
+              <option name="path" value="$PROJECT_DIR$/build.gradle" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="HaloLauncherProject" />
+                <option name="path" value="$PROJECT_DIR$/build.gradle" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="HaloLauncher" />
+                <option name="path" value="$PROJECT_DIR$/HaloLauncher/build.gradle" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SystemUI" />
+              <option name="path" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="SystemUI" />
+                <option name="path" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a Gradle build file. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+                <option name="name" value="generateBuildFile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a Gradle settings file. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+                <option name="name" value="generateSettingsFile" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+                <option name="name" value="setupBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/build.gradle" />
+                <option name="name" value="setupWrapper" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/HUDView.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/HUD.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/xml/settings.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Settings.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/FavouritesList.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/AppList.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Loader.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/drawable/toggle_select.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/MainActivity.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/quicksettings/quicksettings/GPSTile.java" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/res/layout/toggles.xml" />
+        <option value="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Toggles.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="width" value="1214" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HaloLauncher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HaloLauncher" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.paranoid.lukemovement.halolauncher" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/quicksettings" />
+      <recent name="$PROJECT_DIR$/HaloLauncher/src/main/res/menu" />
+      <recent name="$PROJECT_DIR$/HaloLauncher/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.paranoid.lukemovement.halolauncher" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.main">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HaloLauncher" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="HaloLauncher" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="main" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.HaloLauncher" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.main" />
+    </list>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ff8864-df3d-4402-8528-8bae260dee3d" name="Default" comment="" />
+      <created>1372149327228</created>
+      <updated>1372149327228</updated>
+      <workItem from="1372342453917" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="44000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="0" width="1214" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24978541" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.6704675" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3003472" sideWeight="0.6704675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.6704675" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990878" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.6704675" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3004292" sideWeight="0.6704675" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24978541" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961375" sideWeight="0.6704675" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3990878" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Toggles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="6" selection-start="2995" selection-end="2995" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/res/layout/row1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="43" selection-start="700" selection-end="810" vertical-scroll-proportion="0.36245573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Loader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="485" selection-end="485" vertical-scroll-proportion="0.283353">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_15.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/sdk/platforms/android-17/android.jar!/android/view/MotionEvent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="28" selection-start="368" selection-end="368" vertical-scroll-proportion="0.1438849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="73" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/AppList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.10625738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="34" selection-start="5867" selection-end="5867" vertical-scroll-proportion="0.7733813">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/res/layout/toggles.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1996" selection-end="1996" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HaloLauncher/src/main/java/com/paranoid/lukemovement/halolauncher/Toggles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="6" selection-start="2995" selection-end="2995" vertical-scroll-proportion="0.4017413">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SystemUI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android 4.2.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
