@@ -17,8 +17,10 @@
 package com.paranoid.lukemovement.halolauncher;
 
 import android.app.ActionBar;
+import android.app.AlertDialog;
 import android.app.FragmentTransaction;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -48,14 +50,20 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
     static SharedPreferences SP;
 
     @Override
-    protected void onResume()
-    {
-    }
-
-    @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        try {
+        } catch (Exception e) {
+            AlertDialog alertDialog = new AlertDialog.Builder(this).create();
+            alertDialog.setTitle("Error");
+            alertDialog.setMessage("This app will not work on your device because your rom does not support HALO\n\nPlease install a rom that does support this feature(e.g. 'Paranoid Android')");
+            alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
+                public void onClick(DialogInterface dialog, int which) {
+                    finish();
+                } });
+        }
 
         SP = getSharedPreferences(getPackageName() + "_preferences", Context.MODE_PRIVATE);
 

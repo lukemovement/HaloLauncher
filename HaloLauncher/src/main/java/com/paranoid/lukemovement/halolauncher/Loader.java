@@ -14,6 +14,6 @@ public class Loader extends Activity {
         super.onCreate(savedInstanceState);
         startActivity(new Intent(this, MainActivity.class).addFlags(0x00002000
                 | Intent.FLAG_ACTIVITY_CLEAR_TASK));
-        finish();
+            finish();
     }
 }

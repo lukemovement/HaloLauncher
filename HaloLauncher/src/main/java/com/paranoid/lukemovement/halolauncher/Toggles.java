@@ -98,15 +98,60 @@ public class Toggles extends Fragment {
     }
 
     private void setInfo() {
-        battery();
-        timedate();
-        wifi();
-        mobileData();
-        bluetooth();
-        brightness();
-        settings();
-        autoRotate();
-        gps();
+        try {
+            battery();
+        } catch (Exception e) {
+            battery.setVisibility(View.GONE);
+        }
+
+        try {
+            timedate();
+        } catch (Exception e) {
+            time.setVisibility(View.GONE);
+            date.setVisibility(View.GONE);
+        }
+
+        try {
+            wifi();
+        } catch (Exception e) {
+            wifiLayout.setVisibility(View.GONE);
+        }
+
+        try {
+            mobileData();
+        } catch (Exception e) {
+            mobileLayout.setVisibility(View.GONE);
+        }
+
+        try {
+            bluetooth();
+        } catch (Exception e) {
+            bluetoothLayout.setVisibility(View.GONE);
+        }
+
+        try {
+            brightness();
+        } catch (Exception e) {
+            brightness.setVisibility(View.GONE);
+        }
+
+        try {
+            settings();
+        } catch (Exception e) {
+            settings.setVisibility(View.GONE);
+        }
+
+        try {
+            autoRotate();
+        } catch (Exception e) {
+            autoRotateLayout.setVisibility(View.GONE);
+        }
+
+        try {
+            gps();
+        } catch (Exception e) {
+            gpsLayout.setVisibility(View.GONE);
+        }
     }
 
     private void gps() {
