@@ -18,9 +18,11 @@ public class Settings extends PreferenceActivity {
     CheckBoxPreference CloseAfterNewApp;
     CheckBoxPreference ShowFavourites;
     CheckBoxPreference ShowToggles;
+    CheckBoxPreference ShowAllApps;
 
     public void onBackPressed() {
-            startActivity(new Intent(this, MainActivity.class));
+            startActivity(new Intent(this, MainActivity.class).addFlags(0x00002000
+                    | Intent.FLAG_ACTIVITY_CLEAR_TASK));
             finish();
         return;
     }
@@ -56,6 +58,14 @@ public class Settings extends PreferenceActivity {
             }
         });
 
+        ShowAllApps = (CheckBoxPreference) findPreference("ShowAllApps");
+        ShowAllApps.setOnPreferenceChangeListener(new Preference.OnPreferenceChangeListener() {
+            public boolean onPreferenceChange(Preference preference, Object newValue) {
+                SP.edit().putBoolean("ShowAllApps", (Boolean) newValue).commit();
+                return true;
+            }
+        });
+
         getSettings();
 
     }
@@ -64,5 +74,6 @@ public class Settings extends PreferenceActivity {
         CloseAfterNewApp.setChecked(SP.getBoolean("CloseAfterNewApp", true));
         ShowFavourites.setChecked(SP.getBoolean("ShowFavourites", true));
         ShowToggles.setChecked(SP.getBoolean("ShowToggles", true));
+        ShowAllApps.setChecked(SP.getBoolean("ShowAllApps", true));
     }
 }

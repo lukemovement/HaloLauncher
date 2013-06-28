@@ -1,20 +1,34 @@
 package com.paranoid.lukemovement.halolauncher;
 
+import android.bluetooth.BluetoothAdapter;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.graphics.Color;
-import android.graphics.Point;
+import android.location.LocationManager;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
+import android.net.Uri;
+import android.net.wifi.WifiManager;
 import android.os.BatteryManager;
 import android.os.Bundle;
+import android.provider.Settings;
 import android.support.v4.app.Fragment;
-import android.view.Display;
 import android.view.LayoutInflater;
-import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageButton;
+import android.widget.CompoundButton;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.ToggleButton;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * Created by lukepring on 24/06/13.
@@ -23,12 +37,28 @@ public class Toggles extends Fragment {
 
     SharedPreferences SP;
 
-    ImageButton battery;
-    ImageButton bluetooth;
-    ImageButton flashlight;
-    ImageButton gps;
-    ImageButton vibrate;
-    ImageButton sync;
+    LinearLayout buttonHolder;
+
+    ImageView battery;
+    ImageView brightness;
+    ImageView settings;
+    TextView time;
+    TextView date;
+
+    LinearLayout wifiLayout;
+    ToggleButton wifiToggle;
+
+    LinearLayout mobileLayout;
+    ToggleButton mobileToggle;
+
+    LinearLayout bluetoothLayout;
+    ToggleButton blueToothToggle;
+
+    LinearLayout autoRotateLayout;
+    ToggleButton autoRotateToggle;
+
+    LinearLayout gpsLayout;
+    ToggleButton gpsToggle;
 
     View rootView;
 
@@ -37,15 +67,30 @@ public class Toggles extends Fragment {
         rootView = inflater.inflate(R.layout.toggles, container, false);
         SP = getActivity().getSharedPreferences(getActivity().getPackageName() + "_preferences", Context.MODE_PRIVATE);
 
-        battery = (ImageButton)rootView.findViewById(R.id.battery);
-        bluetooth = (ImageButton)rootView.findViewById(R.id.bluetooth);
-        flashlight = (ImageButton)rootView.findViewById(R.id.flashlight);
-        gps = (ImageButton)rootView.findViewById(R.id.gps);
-        vibrate = (ImageButton)rootView.findViewById(R.id.vibrate);
-        sync   = (ImageButton)rootView.findViewById(R.id.sync);
+        buttonHolder = (LinearLayout)rootView.findViewById(R.id.buttonHolder);
+        buttonHolder.setBackgroundColor(Color.BLACK);
 
-        setDimentions();
-        setOnClickListeners();
+        battery = (ImageView)rootView.findViewById(R.id.battery);
+        brightness = (ImageView)rootView.findViewById(R.id.brightness);
+        settings = (ImageView)rootView.findViewById(R.id.settings);
+        time = (TextView)rootView.findViewById(R.id.time);
+        date = (TextView)rootView.findViewById(R.id.date);
+
+        wifiToggle = (ToggleButton)rootView.findViewById(R.id.wifiToggle);
+        wifiLayout = (LinearLayout)rootView.findViewById(R.id.wifiLayout);
+
+        mobileToggle = (ToggleButton)rootView.findViewById(R.id.mobileToggle);
+        mobileLayout = (LinearLayout)rootView.findViewById(R.id.mobileLayout);
+
+        blueToothToggle = (ToggleButton)rootView.findViewById(R.id.blueToothToggle);
+        bluetoothLayout = (LinearLayout)rootView.findViewById(R.id.bluetoothLayout);
+
+        autoRotateToggle = (ToggleButton)rootView.findViewById(R.id.autoRotateToggle);
+        autoRotateLayout = (LinearLayout)rootView.findViewById(R.id.autoRotateLayout);
+
+        gpsToggle = (ToggleButton)rootView.findViewById(R.id.gpsToggle);
+        gpsLayout = (LinearLayout)rootView.findViewById(R.id.gpsLayout);
+
         setInfo();
 
         return rootView;
@@ -54,11 +99,158 @@ public class Toggles extends Fragment {
 
     private void setInfo() {
         battery();
+        timedate();
+        wifi();
+        mobileData();
         bluetooth();
+        brightness();
+        settings();
+        autoRotate();
+        gps();
+    }
+
+    private void gps() {
+        final LocationManager manager = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
+        if (manager.isProviderEnabled( LocationManager.GPS_PROVIDER ) ) {
+            gpsToggle.setChecked(true);
+        }
+
+        gpsToggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton toggleButton, boolean isChecked) {
+                    final Intent poke = new Intent();
+                    poke.setClassName("com.android.settings", "com.android.settings.widget.SettingsAppWidgetProvider");
+                    poke.addCategory(Intent.CATEGORY_ALTERNATIVE);
+                    poke.setData(Uri.parse("3"));
+                    getActivity().sendBroadcast(poke);
+            }
+        });
+    }
+
+    private void autoRotate() {
+
+        try {
+            if (Settings.System.getInt(getActivity().getContentResolver(),Settings.System.ACCELEROMETER_ROTATION) == 1) {
+               autoRotateToggle.setChecked(true);
+            }
+
+            autoRotateToggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(CompoundButton toggleButton, boolean isChecked) {
+                    Settings.System.putInt(getActivity().getContentResolver(), Settings.System.ACCELEROMETER_ROTATION, isChecked ? 1 : 0);
+                }
+            });
+        } catch (Settings.SettingNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private void settings() {
+        settings.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(android.provider.Settings.ACTION_SETTINGS).addFlags(0x00002000
+                        | Intent.FLAG_ACTIVITY_CLEAR_TASK));
+            }
+        });
+    }
+
+    private void brightness() {
+        brightness.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getActivity(), BrightnessDialog.class));
+            }
+        });
     }
 
     private void bluetooth() {
 
+        BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+        if (mBluetoothAdapter.isEnabled()) {
+            blueToothToggle.setChecked(true);
+        }
+
+        blueToothToggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton toggleButton, boolean isChecked) {
+                BluetoothAdapter mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
+                if(isChecked)
+                {
+                    mBluetoothAdapter.enable();
+                }
+                else
+                {
+                    mBluetoothAdapter.disable();
+                }
+            }
+        }) ;
+    }
+
+    private void wifi() {
+        ConnectivityManager connManager = (ConnectivityManager) getActivity().getSystemService(getActivity().CONNECTIVITY_SERVICE);
+        NetworkInfo mWifi = connManager.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+
+        if (mWifi.isConnected()) {
+            wifiToggle.setChecked(true);
+        }
+
+        wifiToggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton toggleButton, boolean isChecked) {
+                    WifiManager wifiManager = (WifiManager) getActivity().getSystemService(Context.WIFI_SERVICE);
+                    wifiManager.setWifiEnabled(isChecked);
+            }
+        }) ;
+
+    }
+
+    private void mobileData() {
+        ConnectivityManager connManager = (ConnectivityManager) getActivity().getSystemService(getActivity().CONNECTIVITY_SERVICE);
+        NetworkInfo mMobile = connManager.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
+
+        if (mMobile.isConnected()) {
+            mobileToggle.setChecked(true);
+        }
+
+        mobileToggle.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton toggleButton, boolean isChecked) {
+            try{
+                final ConnectivityManager conman = (ConnectivityManager) getActivity().getSystemService(Context.CONNECTIVITY_SERVICE);
+                final Class conmanClass = Class.forName(conman.getClass().getName());
+                final Field iConnectivityManagerField = conmanClass.getDeclaredField("mService");
+                iConnectivityManagerField.setAccessible(true);
+                final Object iConnectivityManager = iConnectivityManagerField.get(conman);
+                final Class iConnectivityManagerClass = Class.forName(iConnectivityManager.getClass().getName());
+                final Method setMobileDataEnabledMethod = iConnectivityManagerClass.getDeclaredMethod("setMobileDataEnabled", Boolean.TYPE);
+                setMobileDataEnabledMethod.setAccessible(true);
+
+                setMobileDataEnabledMethod.invoke(iConnectivityManager, isChecked);
+            } catch (ClassNotFoundException e) {
+                e.printStackTrace();
+            } catch (InvocationTargetException e) {
+                e.printStackTrace();
+            } catch (NoSuchMethodException e) {
+                e.printStackTrace();
+            } catch (IllegalAccessException e) {
+                e.printStackTrace();
+            } catch (NoSuchFieldException e) {
+                e.printStackTrace();
+            }
+            }
+        }) ;
+
+    }
+
+    private void timedate() {
+        SimpleDateFormat timeInfo = new SimpleDateFormat("HH:mm");
+        time.setText(timeInfo.format(new Date()));
+        time.setTextColor(Color.WHITE);
+
+        SimpleDateFormat dateInfo = new SimpleDateFormat("dd/MM/yy");
+        date.setText(dateInfo.format(new Date()));
+        date.setTextColor(Color.WHITE);
     }
 
     private void battery() {
@@ -112,72 +304,4 @@ public class Toggles extends Fragment {
             }
         }
     }
-
-    private void setDimentions() {
-        Display display = getActivity().getWindowManager().getDefaultDisplay();
-        Point size = new Point();
-        display.getSize(size);
-        int dimentions = (size.x/3) - (size.x/29);
-
-        battery.setMinimumHeight(dimentions);
-        battery.setMinimumWidth(dimentions);
-        battery.setBackgroundColor(Color.DKGRAY);
-
-        bluetooth.setMinimumHeight(dimentions);
-        bluetooth.setMinimumWidth(dimentions);
-        bluetooth.setBackgroundColor(Color.DKGRAY);
-
-        flashlight.setMinimumHeight(dimentions);
-        flashlight.setMinimumWidth(dimentions);
-        flashlight.setBackgroundColor(Color.DKGRAY);
-
-        gps.setMinimumHeight(dimentions);
-        gps.setMinimumWidth(dimentions);
-        gps.setBackgroundColor(Color.DKGRAY);
-
-        vibrate.setMinimumHeight(dimentions);
-        vibrate.setMinimumWidth(dimentions);
-        vibrate.setBackgroundColor(Color.DKGRAY);
-
-        sync.setMinimumHeight(dimentions);
-        sync.setMinimumWidth(dimentions);
-        sync.setBackgroundColor(Color.DKGRAY);
-
-
-    }
-
-    public void setOnClickListeners () {
-        battery.setOnTouchListener(touch);
-        bluetooth.setOnTouchListener(touch);
-        flashlight.setOnTouchListener(touch);
-        gps.setOnTouchListener(touch);
-        vibrate.setOnTouchListener(touch);
-        sync.setOnTouchListener(touch);
-
-        flashlight.setOnClickListener(flashlightClicked);
-
-    }
-
-    View.OnTouchListener touch = new View.OnTouchListener() {
-
-        @Override
-        public boolean onTouch(View view, MotionEvent event) {
-            if(event.getAction() == MotionEvent.ACTION_DOWN){
-                view.setBackgroundColor(Color.rgb(121, 112, 112));
-            }
-            if(event.getAction() == MotionEvent.ACTION_UP){
-                view.setBackgroundColor(Color.DKGRAY);
-            }
-            return false;
-        }
-    };
-
-    View.OnClickListener flashlightClicked = new View.OnClickListener() {
-        @Override
-        public void onClick(View view) {
-            Intent i = new Intent("net.cactii.flash2.TOGGLE_FLASHLIGHT");
-            getActivity().sendBroadcast(i);
-        }
-    };
-
 }

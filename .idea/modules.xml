@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/build/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/HaloLauncher/build/source/buildConfig/buildConfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/build/manifests/debug/debug.iml" filepath="$PROJECT_DIR$/HaloLauncher/build/manifests/debug/debug.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/src/main/main.iml" filepath="$PROJECT_DIR$/HaloLauncher/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/build/source/r/r.iml" filepath="$PROJECT_DIR$/HaloLauncher/build/source/r/r.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/build/manifests/release/release.iml" filepath="$PROJECT_DIR$/HaloLauncher/build/manifests/release/release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HaloLauncher/HaloLauncher.iml" filepath="$PROJECT_DIR$/HaloLauncher/HaloLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HaloLauncherProject.iml" filepath="$PROJECT_DIR$/HaloLauncherProject.iml" />
+      <module fileurl="file://$USER_HOME$/android/system/frameworks/base/packages/SystemUI/SystemUI.iml" filepath="$USER_HOME$/android/system/frameworks/base/packages/SystemUI/SystemUI.iml" />
     </modules>
   </component>
 </project>

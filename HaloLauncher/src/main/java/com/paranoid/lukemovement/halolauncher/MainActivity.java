@@ -111,7 +111,8 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
             case R.id.action_exit:     		finish();
                 break;
             case R.id.action_settings:
-                startActivity(new Intent(this, Settings.class));
+                startActivity(new Intent(this, Settings.class).addFlags(0x00002000
+                        | Intent.FLAG_ACTIVITY_CLEAR_TASK));
                 finish();
                 break;
         }
@@ -144,51 +145,39 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
         @Override
         public Fragment getItem(int i) {
-            if(SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) {//Show all
+            if((!SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true)) && !SP.getBoolean("ShowAllApps", true)) {
+                i = 3;
+            }
             switch (i) {
                 case 0:
-                    return new FavouritesList();
+                    if(SP.getBoolean("ShowFavourites", true)) {
+                        return new FavouritesList();
+                    } else if (SP.getBoolean("ShowAllApps", true)) {
+                        return new AppList();
+                    } else {
+                        return new Toggles();
+                    }
                 case 1:
-                    return new AppList();
+                    if (SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowAllApps", true)) {
+                        return new AppList();
+                    } else {
+                        return new Toggles();
+                    }
                 case 2:
                     return new Toggles();
                 default:
-                    return null;
+                    return new Nothing();
             }
-            } else if(!SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) {//hide favourites
-                switch (i) {
-                    case 0:
-                        return new AppList();
-                    case 1:
-                        return new Toggles();
-                    default:
-                        return null;
-                }
-            } else if(SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true)) {//hide toggles
-                switch (i) {
-                    case 0:
-                        return new FavouritesList();
-                    case 1:
-                        return new AppList();
-                    default:
-                        return null;
-                }
-            } else {//hide both
 
-                    switch (i) {
-                    case 0:
-                        return new AppList();
-                    default:
-                        return null;
-                }
-            }
         }
 
         @Override
         public int getCount() {
-            if((!SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) || (SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true))) {
+            if((!SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) && SP.getBoolean("ShowAllApps", true) ||
+                    (SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true)) && SP.getBoolean("ShowAllApps", true)  ||
+                    (SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) && !SP.getBoolean("ShowAllApps", true) ) {
                 return 2;
-            } else if(SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) {
+            } else if(SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true) && SP.getBoolean("ShowAllApps", true)) {
                 return 3;
             } else {
                 return 1;
@@ -197,38 +186,28 @@ public class MainActivity extends FragmentActivity implements ActionBar.TabListe
 
         @Override
         public CharSequence getPageTitle(int position) {
-            if(SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) {
-                if(position == 0) {
-                    return "Favourites";
-                } else if (position == 1) {
-                    return "All Apps";
-                } else if (position == 2) {
+            if((!SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true)) && !SP.getBoolean("ShowAllApps", true)) {
+                position = 3;
+            }
+            switch (position) {
+                case 0:
+                    if(SP.getBoolean("ShowFavourites", true)) {
+                        return "Favourites";
+                    } else if (SP.getBoolean("ShowAllApps", true)) {
+                        return "All Apps";
+                    } else {
+                        return "Toggles";
+                    }
+                case 1:
+                    if (SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowAllApps", true)) {
+                        return "All Apps";
+                    } else {
+                        return "Toggles";
+                    }
+                case 2:
                     return "Toggles";
-                } else {
-                    return "Section " + (position + 1);
-                }
-            } else if(SP.getBoolean("ShowFavourites", true) && !SP.getBoolean("ShowToggles", true)) {
-                if(position == 0) {
-                    return "Favourites";
-                } else if (position == 1) {
-                    return "All Apps";
-                } else {
-                    return "Section " + (position + 1);
-                }
-            } else if(!SP.getBoolean("ShowFavourites", true) && SP.getBoolean("ShowToggles", true)) {
-                if (position == 0) {
-                    return "All Apps";
-                } else if (position == 1) {
-                    return "Toggles";
-                } else {
-                    return "Section " + (position + 1);
-                }
-            } else {
-                if(position == 0) {
-                    return "All Apps";
-                } else {
-                    return "Section " + (position + 1);
-                }
+                default:
+                    return "";
             }
         }
 

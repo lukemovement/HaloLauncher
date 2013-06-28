@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res" >
+            <file
+                name="main"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="ic_launcher"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="settings"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/xml/settings.xml"
+                qualifiers=""
+                type="xml" />
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="settings" >Settings
+                </string>
+                <string name="exit" >Exit
+                </string>
+                <string name="app_name" >HaloLauncher
+                </string>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="dialogTheme"
+                    parent="@android:style/Theme.Holo.Dialog" >
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values-v14/styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/values-sw600dp/dimens.xml"
+                qualifiers="sw600dp" />
+            <file
+                name="ic_qs_clock_minute"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_clock_minute.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_profiles"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_profiles.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_rotation_locked"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_rotation_locked.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_airplane_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_airplane_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_location_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_location_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_ring_vibrate_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_ring_vibrate_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_vibrate_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_vibrate_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_1"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_43"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_43.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_15"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_15.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_h"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_h.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_default_user"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_default_user.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_bluetooth_not_connected"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_bluetooth_not_connected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_3g_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_3g_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_85"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_85.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_100"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_100.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_e"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_e.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_r"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_r.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_in"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_in.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_lte_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_lte_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_auto_rotate"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_auto_rotate.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_sync_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_sync_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_usb_tether_connected"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_usb_tether_connected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_4"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_4g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_4g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_brightness_auto_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_brightness_auto_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_unexpected_network"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_unexpected_network.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_full_4"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_full_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_alarm_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_alarm_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_no_network"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_no_network.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_r"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_r.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_57"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_57.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_quiet_hours_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_quiet_hours_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_0"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_1x"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_1x.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_3g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_3g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_lock_screen_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_lock_screen_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_2"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_remote_display_connected"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_remote_display_connected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_usb_device"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_usb_device.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_15"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_15.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_71"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_71.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_gps_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_gps_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_flashlight_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_flashlight_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_28"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_28.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_4"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_torch_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_torch_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_lock_screen_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_lock_screen_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_3"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_0"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_bang_red"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_bang_red.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_location"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_location.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_ring_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_ring_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_lte_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_lte_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_expanded_desktop_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_expanded_desktop_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_e"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_e.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_bang_white"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_bang_white.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_vibrate_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_vibrate_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_gps_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_gps_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_location_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_location_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_remote_display"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_remote_display.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_airplane_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_airplane_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_3"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_43"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_43.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_bluetooth_neutral"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_bluetooth_neutral.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_28"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_28.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_ime"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_ime.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_full_3"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_full_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_data_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_data_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_neutral"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_neutral.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_57"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_57.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_2"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_no_signal"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_no_signal.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_nfc_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_nfc_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_full_2"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_full_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_brightness_auto_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_brightness_auto_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_quiet_hours_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_quiet_hours_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_4g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_4g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_bluetooth_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_bluetooth_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_unknown"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_unknown.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_screen_timeout_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_screen_timeout_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_usb_tether_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_usb_tether_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_torch_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_torch_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_sync_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_sync_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_settings"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_settings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_100"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_100.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_nfc_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_nfc_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_out"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_out.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_ring_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_ring_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_1"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_hybrid"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_hybrid.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_4"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_clock_circle"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_clock_circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_no_network"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_no_network.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_3"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_2g3g_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_2g3g_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_71"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_71.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_flashlight_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_flashlight_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_gps_neutral"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_gps_neutral.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_screen_timeout_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_screen_timeout_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_bolt"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_bolt.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_0"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_0"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_not_connected"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_not_connected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_clock_hour"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_clock_hour.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_bang_orange"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_bang_orange.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_ap_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_ap_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_volume"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_volume.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_h"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_h.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_bluetooth_off"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_bluetooth_off.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_1x"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_1x.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_full_1"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_full_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_2g_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_2g_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_0"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_0.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_usb_tether_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_usb_tether_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_in"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_in.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_sleep"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_sleep.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_inout"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_inout.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_battery_charge_85"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_battery_charge_85.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_inout"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_inout.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_expanded_desktop"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_expanded_desktop.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_signal_full_3g"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_signal_full_3g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_1"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_2"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_ap_on"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_ap_on.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_out"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_out.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_qs_wifi_ap_neutral"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-hdpi/ic_qs_wifi_ap_neutral.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="row1"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/row1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="applist"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/applist.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="toggles"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/toggles.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="brightness_dialog"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/brightness_dialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="nothing"
+                path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/main/res/layout/nothing.xml"
+                qualifiers=""
+                type="layout" />
+        </source>
+        <source path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/lukepring/AndroidStudioProjects/HaloLauncherProject/HaloLauncher/src/debug/res" />
+    </dataSet>
+
+</merger>
